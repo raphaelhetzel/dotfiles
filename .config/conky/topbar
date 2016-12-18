@@ -36,7 +36,7 @@ TEXT
 
 # JSON for i3bar
 
- [	{ "full_text": "${exec ~/.config/conky/song_title}", "color": "\#beb6ec" },
+ [	{ "full_text": "${exec ~/.local/bin/song_title}", "color": "\#beb6ec" },
  	{ "full_text" : "\uf240 ${battery_percent}%" , "color" : "\#ffffff" },
  	{ "full_text" : "\uf085 ${loadavg 1}" , "color" : "\#ffffff" },
  	{ "full_text" : "\uf1c0 ${fs_free /home}" , "color" : "\#ffffff" },
