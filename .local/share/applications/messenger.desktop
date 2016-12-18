@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Name=Messenger
+StartupWMClass=messenger
+Exec=/usr/bin/google-chrome-stable --app=https://messenger.com %U
+Terminal=false
+Icon=google-chrome
+Type=Application

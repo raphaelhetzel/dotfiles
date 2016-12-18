@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Name=Netflix
+StartupWMClass=netflix
+Exec=/usr/bin/google-chrome-stable --app=https://netflix.com %U
+Terminal=false
+Icon=google-chrome
+Type=Application

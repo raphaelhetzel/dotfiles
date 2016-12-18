@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Name=Inbox
+StartupWMClass=inbox
+Exec=/usr/bin/google-chrome-stable --app=https://inbox.google.com %U
+Terminal=false
+Icon=google-chrome
+Type=Application
